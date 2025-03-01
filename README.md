@@ -1,6 +1,18 @@
-# Getting Started with Create React App
+# JSX 基本サンプルプロジェクト
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+このプロジェクトは、JSX（JavaScript XML）の基本を学ぶためのサンプルReactアプリケーションです。Create React Appを使用して作成されています。
+
+## ドキュメント
+
+以下のドキュメントを参照して、JSXについて学んでください：
+
+- [JSXの基本](docs/jsx-basics.md) - JSXの基本概念と構文
+- [JSXの実践例](docs/jsx-examples.md) - JSXを使った実践的なコンポーネント例
+- [プロジェクト構造](docs/project-structure.md) - このプロジェクトの構造と重要なファイル
+
+## はじめに
+
+このプロジェクトは [Create React App](https://github.com/facebook/create-react-app) を使用して作成されています。
 
 ## Available Scripts
 
